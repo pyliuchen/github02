@@ -4,3 +4,7 @@ def login():
 
 def user_info(uid):
 	return {}
+
+
+def logout():
+	pass
